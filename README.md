@@ -19,7 +19,7 @@ A passionate **Java & Full-Stack Developer**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan0109&layout=compact&theme=dark)  
 
 ## 🔥 Streak Stats:  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kundan0109&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kundan0109&theme=dark)
 
 ## 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-tikale-422121226/)  
