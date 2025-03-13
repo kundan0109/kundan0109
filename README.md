@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kundan  
 A passionate **Java & Full-Stack Developer**.  
 
-- 🌱 I’m currently learning **C#, .NET, React Native, and Firebase**  
+- 🌱 I’m currently learning **C#, .NET, React Native**  
 - 💬 Ask me about **Java, OOP, React, Full-Stack Development, and SQL**  
 - 📫 How to reach me **kundantikale4@gmail.com**  
 
