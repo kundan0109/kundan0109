@@ -9,7 +9,6 @@ A passionate **Java & Full-Stack Developer**.
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)  
